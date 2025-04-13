@@ -1,4 +1,4 @@
-# Anomaly Detection in NYC Taxi Traffic Time Series Data
+# NYC-Taxi-Traffic-Anomaly-Detection-Time-Series
 This project demonstrates how to detect anomalies in time-series data using multiple machine learning techniques. The dataset used is `taxitraffic.csv`, which contains timestamped traffic volume information. The goal is to identify unusual patterns or outliers that may indicate anomalies in taxi traffic.
 
 ## 📊 Techniques Implemented
